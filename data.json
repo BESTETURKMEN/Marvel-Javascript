@@ -1,0 +1,63 @@
+ [
+    {
+        "id": "1",
+        "photo": "darthvader1.jfif",
+        "Name": "Darth Vader"
+    },
+    {
+        "id": "2",
+        "photo": "yoda1.jfif",
+        "Name": "Yoda"
+    },
+    {
+        "id": "3",
+        "photo": "han solo.jfif",
+        "Name": "Han Solo"
+    },
+    {
+        "id": "4",
+        "photo": "obiwankenobi.jfif",
+        "Name": "Obi-Wan Kenobi"
+    },
+    {
+        "id": "5",
+        "photo": "anakinskywalker.jfif",
+        "Name": " Anakin Skywalker"
+    },
+    {
+        "id": "6",
+        "photo": "padmeamidala.jfif",
+        "Name": "Padme Amidala"
+    },
+    {
+        "id": "7",
+        "photo": "LukeSkywalker.jfif",
+        "Name": "Luke Skywalker"
+    },
+    {
+        "id": "8",
+        "photo": "LeiaOrgana.jfif",
+        "Name": "Leia Organa"
+    },
+    {
+        "id": "9",
+        "photo": "SheevPalpatine3.jfif",
+        "Name": "Sheev Palpatine"
+    },
+    {
+        "id": "10",
+        "photo": "DarthMaul.jfif",
+        "Name": "Darth Maul"
+    },
+    {
+        "id": "11",
+        "photo": "BobaFett1.jfif",
+        "Name": "Boba Fett"
+    },
+    {
+        "id": "12",
+        "photo": "Chewbacca3.jfif",
+        "Name": "Chewbacca"
+    }
+
+]
